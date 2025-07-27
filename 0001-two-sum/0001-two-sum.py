@@ -6,4 +6,5 @@ class Solution:
             if diff in dict.keys():
                 return [dict[diff],i]
             dict[nums[i]] = i
-                
+        
+        

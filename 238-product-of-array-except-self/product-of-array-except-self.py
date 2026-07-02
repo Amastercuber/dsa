@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        # stuff
         product = 1
         output = []
         zeros = 0
